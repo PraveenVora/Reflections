@@ -1,0 +1,22 @@
+What happens when you initialize a repository? Why do you need to do it?
+ New repository is created with zero commits, becoz it allows an option to store more data
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+Staging area offers a place to hold the file to be copied to the repository and acts as an intermediate
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+by using the git diff, git diff --stage command
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+Branches help in creating a new version by keeping the older version intact 
+
+How do the diagrams help you visualize the branch structure?
+It helps us knowing which commits are part of which branch and also the unreachable ids
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+It helps in reducing the no of branch label and having all the commits under the same branch 
+
