@@ -7,7 +7,7 @@ Perhaps when i am working at the different places in the same day like college o
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    just to extra sure that you actually made the changes
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
